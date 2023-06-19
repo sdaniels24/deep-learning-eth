@@ -1,6 +1,1 @@
-- [X] upload image segmentation code
-- [X] upload readme for segmentation code
-- [X] upload files > 25 MB
-- [X] upload pix2pixGAN
-- [X] add parser to pix2pixGAN
-- [X] upload readme for pix2pixGAN
+
