@@ -14,7 +14,7 @@ A code base that applies image segmentation in the context of face parsing. The 
 ## Installation
 
 ```bash
-git clone https://github.com/IvanSunjg/ETH_DL_2022
+git clone https://github.com/sdaniels24/deep-learning-eth.git
 cd ImageSegmentation
 cd face_parsing
 git lfs pull
