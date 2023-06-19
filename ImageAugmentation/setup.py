@@ -11,7 +11,7 @@ setuptools.setup(
     description='Data Augmentations for the Child Face GAN',
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url='https://github.com/IvanSunjg/ETH_DL_2022/tree/main/ImageAugmentation',
+    url='https://github.com/sdaniels24/deep-learning-eth/tree/main/ImageAugmentation',
     license='MIT',
     packages=['augmentations'],
     install_requires=['numpy', 'matplotlib', 'torch', 'torchvision'],
